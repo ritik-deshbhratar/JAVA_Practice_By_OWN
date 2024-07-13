@@ -1,0 +1,17 @@
+> git add .  
+> git commit -m "massege "  
+> git branch -M main  
+> git remote add origin https://github.com/ritik-deshbhratar/JAVA_Practice_By_OWN.git
+
+## git push -u origin main
+
+---
+
+add file in existing reposetry
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/ritik-deshbhratar/JAVASCRIPT_PRACTICE.git
+git branch -M main
+git push -u origin main
+
+// Java Basic Exercises [150 exercises with solution] => folder name
